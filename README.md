@@ -1,0 +1,2 @@
+# trial-error
+Learning foundations
